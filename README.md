@@ -1,5 +1,5 @@
 <h1 style="margin-bottom: 0; font-weight: bold;">Proyecto: Predicción de depresión en estudiantes</h1>
-<p style="margin-top: 0;">Introducción a la inteligencia artificial - Sebastián Lira y Sebastián Vásquez</p>
+<p style="margin-top: 0;"><em>Introducción a la Inteligencia Artificial - Sebastián Lira y Sebastián Vásquez</em></p>
 
 ### Definición del problema
 Este proyecto se enfocará en analizar la depresión en los estudiantes universitarios, esta es una condición de salud mental que afecta a gran parte de los estudiantes hoy en día, con un alto impacto en la salud y la calidad de vida. Situaciones como el estrés académico, la falta de apoyo emocional, mala situación económica y problemas familiares pueden afectar en el estado emocional de las personas y por consiguiente en el desarrollo de esta condición. El hecho de poder detectarla a tiempo puede ayudar a prevenir consecuencias como el bajo rendimiento académico, abandono de estudios, desmotivación o incluso autolesiones.
