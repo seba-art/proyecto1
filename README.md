@@ -98,3 +98,10 @@ Además, se generó la curva ROC, con un valor AUC igual a 0.90, lo que indica q
 Finalmente graficamos varios árboles aleatorios para poder visualizar cómo se estaban realizando las subdivisiones. Al analizarlos, pudimos observar consistentemente que la variable más utilizada era “Have you ever had suicidal thoughts ?”, lo cuál tiene coherencia con el análisis de la importancia de features, ya que esta característica es la más influyente en la predicción.Con respecto a la precisión general del modelo (Acurracy), el modelo logró un 84%. Este es un buen resultado, sobre todo al tratarse de un problema de salud mental, puesto que malas predicciones conllevan a diagnósticos peligrosos.
 
 ### Conclusiones
+
+Este proyecto nos permitió construir un modelo predictivo capaz de identificar y clasificar a los estudiantes que sufren depresión a lo largo de su vida universitaria. Confiar al 100% en estas predicciones para dar un diagnóstico médico podría ser irresponsable y erróneo, pero creemos que es una buena manera para obtener un primer diagnóstico de forma sencilla, permitiendo reconocer indicios de depresión en estudiantes que quizás no saben o no quieren reconocer sus problemas de salud mental.
+
+Integrar herramientas computacionales en la detección de problemas de salud mental presentes en la educación, puede ser de utilidad para profesionales o académicos con el fin de identificar a los estudiantes que podrían necesitar apoyo psicológico, utilizando la predicción para priorizar derivaciones a especialistas o realizar seguimientos preventivos, facilitando intervenciones más focalizadas.
+
+Para mejorar las predicciones del modelo recomendamos incorporar o reco
+lectar mayor cantidad de datos, y diversidad de estos a nivel geográfico para aumentar la capacidad de generalización en contextos distintos. 
